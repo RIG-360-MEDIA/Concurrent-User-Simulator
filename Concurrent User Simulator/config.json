@@ -1,0 +1,16 @@
+{
+  "target_platform": "dnl",
+  "target_url": "http://youtube.com/watch?v=Fy_03Aorpq8",
+  "total_sessions": 5,
+  "ramp_up_interval_sec": 3,
+  "min_watch_duration_sec": 15,
+  "max_watch_duration_sec": 30,
+  "use_proxies": false,
+  "proxy_file": "proxies.txt",
+  "enable_chat": true,
+  "min_chat_messages": 1,
+  "max_chat_messages": 3,
+  "min_chat_interval_sec": 5,
+  "max_chat_interval_sec": 10,
+  "youtube_quality": "144p"
+}
